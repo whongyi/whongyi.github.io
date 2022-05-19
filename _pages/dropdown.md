@@ -1,7 +1,7 @@
 ---
 layout: page
 title: submenus
-nav: true
+nav: false # if false, won't show on the nav bar
 dropdown: true
 children: 
     - title: publications
