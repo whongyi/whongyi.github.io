@@ -75,10 +75,12 @@ stackoverflow_id: #your stackoverflow id
 contact_note: >
   (easiest way to reach me is through email)
 
-google_analytics:  UA-104965913 # your google-analytics ID (format: UA-XXXXXXXXX)
+google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
 bing_site_verification:  # out your bing-site-verification ID (Bing Webmaster)
 panelbear_analytics:  # panelbear analytics site ID (format: XXXXXXXXX)
+ga4_analytics: G-X4DZLJGFLQ # your GA4 measurement ID
+
 
 # -----------------------------------------------------------------------------
 # Blog
