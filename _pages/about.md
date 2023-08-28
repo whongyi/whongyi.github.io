@@ -9,15 +9,18 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>✉️ hongyi.wen@nyu.edu</p>
+    <p>🏢S712, Qiantan Campus</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-I'm an Assistant Professor of Computer Science at [NYU Shanghai](https://shanghai.nyu.edu/). Prior to that, I received my Ph.D. in Information Science from Cornell University in 2021, where I was fortunate to be advised by [Deborah Estrin](https://destrin.tech.cornell.edu/). I hold a B.Eng. in Computer Science from Tsinghua University and during undergrad I worked with the [Pervasive HCI Group](https://pi.cs.tsinghua.edu.cn/research/). 
+I'm an Assistant Professor of Computer Science at [NYU Shanghai](https://shanghai.nyu.edu/). Prior to that, I received my Ph.D. in Information Science from Cornell University, where I was fortunate to be advised by [Deborah Estrin](https://destrin.tech.cornell.edu/). I hold a B.Eng in Computer Science from Tsinghua University and during undergrad I worked with the [Pervasive HCI Group](https://pi.cs.tsinghua.edu.cn/research/). 
 
-My research interest lies in developing human-in-the-loop machine learning systems to improve the long-term values for humans and the society. My current work focuses on Recommender Systems and Human-centered AI. I aim to develop better algorithms and user interactions to address social-technical challenges such as fairness, privacy and bias in these information systems.
+My research interest lies in developing human-in-the-loop machine learning systems and improving long-term values of personalizations. I lead the [<b>M</b>ultimodal <b>A</b>I <b>P</b>ersonalization <b>S</b>ystems (MAPS)](/MAPS-research) research group at NYU Shanghai. Our recent work focuses on Recommender Systems, Generative Models and their applications in Learning and Creativity. 
 
-<span style="color:red"> 📢 <i>I'm looking for self-motivated PhDs and undergrads who are interested in Recommender Systems, Fair and Robust Machine Learning and Human-centered AI. Contact me if you are interested!</i></span>
+📢 I'm looking for self-motivated PhDs and undergrads to join our research group. Check our [PhD program](https://shanghai.nyu.edu/academics/graduate/computer-science-phd-program) and contact me at <u>hongyi.wen@nyu.edu</u> if you are interested in the following topics:
+- Fairness, Robustness and Privacy in Recommender Systems (focus on ML and Optimization)
+- Personalizing Generative Language/Vision/Music Models (focus on ML and System Development)
+- Personalization in Education/Health (focus on System Development and HCI)

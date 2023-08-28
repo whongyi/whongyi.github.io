@@ -55,7 +55,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: # your GitHub user name
+github_username:  # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: hongyi_wen # your Twitter handle
 linkedin_username: # your LinkedIn user name
@@ -72,8 +72,7 @@ wikidata_id: # your wikidata id
 dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
-contact_note: >
-  (easiest way to reach me is through email)
+contact_note: 
 
 google_analytics:  # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  # your google-site-verification ID (Google Search Console)
