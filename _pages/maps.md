@@ -16,5 +16,5 @@ PhD students
 - [Haoming Liu](https://hmdliu.site/), NYU Shanghai & NYU Tandon 
 
 Undergraduate
-- Yuanhe Guo, NYU Shanghai
+- [Yuanhe Guo](https://ricercarg.github.io/), NYU Shanghai
 - Mohamed Hendy, NYU Shanghai
