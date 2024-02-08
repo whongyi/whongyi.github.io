@@ -10,11 +10,19 @@ The <b>M</b>ultimodal <b>A</b>ccessible <b>P</b>ersonalization <b>S</b>ystems (M
 Visit our [Github](https://github.com/MAPS-research) and [HuggingFace](https://huggingface.co/MAPS-research) pages for projects, code and datasets! 
 
 Faculty
-- [Hongyi Wen](https://whongyi.github.io), Assistant Professor of CS, NYU Shanghai
+- [Hongyi Wen](https://whongyi.github.io)
 
-PhD students
-- [Haoming Liu](https://hmdliu.site/), NYU Shanghai & NYU Tandon 
+PhD student
+- [Haoming Liu](https://hmdliu.site/)
 
 Undergraduate
-- [Yuanhe Guo](https://ricercarg.github.io/), NYU Shanghai
-- Mohamed Hendy, NYU Shanghai
+- [Yuanhe Guo](https://ricercarg.github.io/)
+- [Mohamed Hendy](https://github.com/mhendy25)
+- Cissy Xie
+- Jolia Chen
+- Arghya Sarkar
+- Yicheng Jiang
+- Xin Teng
+
+Research Engineer
+- Utku Ege Tuluk
