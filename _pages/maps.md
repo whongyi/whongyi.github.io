@@ -25,4 +25,4 @@ Undergraduate
 - Xin Teng
 
 Research Engineer
-- Utku Ege Tuluk
+- [Utku Ege Tuluk](https://github.com/uetuluk)
